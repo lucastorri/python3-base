@@ -3,6 +3,8 @@
 
 ## Requirements
 * Python 3
+* pip
+* virtualenv
 
 ## Start
 
